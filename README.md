@@ -1,13 +1,14 @@
 ### Hi there 👋 My name is Hatice
 
-**## Graduation**
+** Graduation**
 
 Electrical Electronics Engineering |  [Istanbul Yeni Yuzyil University](https://www.yeniyuzyil.edu.tr/)
 
-**### Find me around the web 🌍**
+** Find me around the web 🌍**
 
 <a href="mailto:haticekatranci@ynadex.com"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a><a href="https://www.linkedin.com/in/haticekatranci/"><img width="30px" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
+<br/>
 
 ## Languages and tools
 
